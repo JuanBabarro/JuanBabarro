@@ -35,7 +35,7 @@
       <br>
       <img src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,js,html,css,bootstrap,react,postman,mysql,postgres,docker,git,github,idea,eclipse,vscode&perline=8" />
     </td>
-    <td width="50%" valign="top" height="300px">
+    <td width="50%" valign="top" height="310px">
       <h3>📊 ANÁLISIS GITHUB 📊</h3>
       <p align="center">
         <a href="https://github.com/AVS1508">
