@@ -35,11 +35,11 @@
       <br>
       <img src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,js,html,css,bootstrap,react,postman,mysql,postgres,docker,git,github,idea,eclipse,vscode&perline=8" />
     </td>
-    <td width="50%" valign="top" height="310px">
+    <td width="50%" valign="top" height="300px">
       <h3>📊 ANÁLISIS GITHUB 📊</h3>
       <p align="center">
         <a href="https://github.com/AVS1508">
-          <img height="280em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+          <img height="285em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
         </a>
       </p>
     </td>
