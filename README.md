@@ -9,8 +9,8 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">  
-&nbsp;
 <b><h3>:round_pushpin: SOBRE MI :round_pushpin:</h3></b>
+
   
 <p>:small_blue_diamond: Estudiante en Lic. en Informática en la Universidad Nacional &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;del Oeste (UNO). 🎓</p>
 <br>
