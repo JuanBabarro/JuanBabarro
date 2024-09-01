@@ -16,6 +16,7 @@
 <p>:small_blue_diamond: Estudiante en Tec. en Tecnologías web en la Universidad &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nacional del Oeste (UNO). 🎓</p>
 <br>
 <p>:small_blue_diamond: Desarrollo del aprendizaje autodidacta. :books:</p>
+<br>
 
 
 </td>
