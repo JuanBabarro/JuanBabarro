@@ -2,7 +2,7 @@
 <img  width=30px src="https://github.com/user-attachments/assets/2ce06b7d-d975-4456-a5ce-285ddf177318)">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture></p>
-<h1 align="center">:star: Bienvenido a mi Perfil :star:</h1>
+<b><h1 align="center">:star: Bienvenido a mi Perfil :star:</h1></b>
 <h2 align="center">🚀 Estudiante apasionado de TI | Explorando el mundo ilimitado de la tecnología 🚀</h2>
 
 
