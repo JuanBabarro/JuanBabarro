@@ -18,7 +18,6 @@
 <p>:small_blue_diamond: Desarrollo del aprendizaje autodidacta. :books:</p>
 <br>
 
-
 </td>
 <td width="50%" align="center">
 
