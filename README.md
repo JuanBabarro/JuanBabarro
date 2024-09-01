@@ -21,7 +21,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="390" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
+  <img align="center" alt="Coding" width="395" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
   
   </td>
