@@ -10,7 +10,7 @@
 <tr border="none">
 <td width="50%" align="left">  
 <h3>:round_pushpin: SOBRE MI :round_pushpin:</h3>
-
+  
 <p>:small_blue_diamond: Estudiante en Lic. en Informática en la Universidad Nacional &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;del Oeste (UNO). 🎓</p>
 <br>
 <p>:small_blue_diamond: Estudiante en Tec. en Tecnologías web en la Universidad &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nacional del Oeste (UNO). 🎓</p>
@@ -22,7 +22,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="385" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
+  <img align="center" alt="Coding" width="390" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
   
   </td>
