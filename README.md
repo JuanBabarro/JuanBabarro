@@ -11,11 +11,11 @@
 <td width="50%" align="left">  
 <b><h3>:round_pushpin: SOBRE MI :round_pushpin:</h3></b>
   
-<p>:small_blue_diamond: Estudiante en Lic. en Informática en la Universidad Nacional &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;del Oeste (UNO). 🎓</p>
+<b><p>:small_blue_diamond: Estudiante en Lic. en Informática en la Universidad Nacional &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;del Oeste (UNO). 🎓</p></b>
 <br>
-<p>:small_blue_diamond: Estudiante en Tec. en Tecnologías web en la Universidad &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nacional del Oeste (UNO). 🎓</p>
+<b><p>:small_blue_diamond: Estudiante en Tec. en Tecnologías web en la Universidad &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nacional del Oeste (UNO). 🎓</p></b>
 <br>
-<p>:small_blue_diamond: Desarrollo del aprendizaje autodidacta. :books:</p>
+<b><p>:small_blue_diamond: Desarrollo del aprendizaje autodidacta. :books:</p></b>
 <br>
 
 </td>
