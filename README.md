@@ -31,12 +31,12 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top" height="300px">
-      <h3>🛠️ LENGUAJES Y TÉCNOLOGIAS 🛠️</h3>
+      <b><h3>🛠️ LENGUAJES Y TÉCNOLOGIAS 🛠️</h3></b>
       <br>
       <img src="https://skillicons.dev/icons?i=java,maven,hibernate,spring,js,html,css,bootstrap,react,postman,mysql,postgres,docker,git,github,idea,eclipse,vscode&perline=8" />
     </td>
     <td width="50%" valign="top" height="300px">
-      <h3>📊 ANÁLISIS GITHUB 📊</h3>
+      <b><h3>📊 ANÁLISIS GITHUB 📊</h3></b>
       <p align="center">
         <a href="https://github.com/AVS1508">
           <img height="260em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanBabarro&layout=compact&langs_count=8&theme=algolia"/>
@@ -53,7 +53,7 @@
 <table aling="center">
   <tr>
     <td width="1050px" aling="center">
-      <p><h3 aling="center">️ &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     :mailbox_with_mail: CONTÁCTAME ️:mailbox_with_mail:</h3></p>
+      <b><p><h3 aling="center">️ &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     :mailbox_with_mail: CONTÁCTAME ️:mailbox_with_mail:</h3></p></b>
       <br>
      <p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</p>
     </td>
