@@ -3,13 +3,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture></p>
 <b><h1 align="center">:star: Bienvenido a mi Perfil :star:</h1></b>
-<h2 align="center">🚀 Estudiante apasionado de TI | Explorando el mundo ilimitado de la tecnología 🚀</h2>
+<b><h2 align="center">🚀 Estudiante apasionado de TI | Explorando el mundo ilimitado de la tecnología 🚀</h2></b>
 
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">  
-<h3>:round_pushpin: SOBRE MI :round_pushpin:</h3>
+<b><h3>:round_pushpin: SOBRE MI :round_pushpin:</h3></b>
   
 <p>:small_blue_diamond: Estudiante en Lic. en Informática en la Universidad Nacional &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;del Oeste (UNO). 🎓</p>
 <br>
