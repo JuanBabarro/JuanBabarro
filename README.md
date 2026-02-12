@@ -3,7 +3,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture></p>
 <b><h1 align="center">★ Bienvenido a mi Perfil ★</h1></b>
-<b><h2 align="center">🚀 Estudiante de Informática | Desarrollador Back-End Java 🚀</h2></b>
+<b><h2 align="center">🚀 Estudiante de Informática | Desarrollador Full Stack 🚀</h2></b>
 
 
 <table align="center">
