@@ -1,63 +1,51 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=130&section=header"/>
+
 # Juan Cruz Babarro
 
 ### Java Developer • Functional Analyst
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=3FAE49&center=true&vCenter=true&width=650&lines=Java+Developer;Functional+Analyst;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Building+Business+Solutions"/>
+> *Building scalable solutions with Java & Spring Boot*
 
----
+<br>
 
-### Java • Spring Boot • Hibernate • REST APIs • SQL • React • Microservices • Scrum
-
-*"Transformando necesidades del negocio en soluciones de software escalables."*
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,mysql,postgres,docker,git,github"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=180&section=header"/>
-
-# 👨‍💻 Sobre mí
-
-Soy **Java Developer** con orientación al desarrollo de aplicaciones empresariales utilizando el ecosistema de **Java y Spring Boot**.
-
-Además de mi perfil técnico, me especializo en **Análisis Funcional**, participando en el relevamiento de requerimientos, análisis de procesos, documentación funcional y diseño de soluciones alineadas con las necesidades del negocio.
-
-Actualmente me encuentro cursando la **Licenciatura en Informática** y la **Tecnicatura en Tecnologías Web** en la Universidad Nacional del Oeste.
-
 ---
 
-# 💼 Especialidades
+## 💼 Sobre mí
+
+- 💻 Java Developer especializado en **Spring Boot** y **Hibernate**.
+- 📋 Orientado al **Análisis Funcional** y al desarrollo de soluciones empresariales.
+- ⚙️ Experiencia desarrollando **REST APIs**, SQL y aplicaciones Full Stack.
+- 🎓 Estudiante de Licenciatura en Informática y Tecnicatura en Tecnologías Web (UNO).
+- 🚀 Aprendizaje continuo y enfoque en buenas prácticas de desarrollo.
+
+---
 
 <table>
 <tr>
 
 <td width="50%">
 
-### Backend
+## 🛠 Tecnologías
 
-- Java
-- Spring Boot
-- Hibernate / JPA
-- Spring Security
-- Maven
-- REST APIs
-- JWT
-- Microservices
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,js,html,css,mysql,postgres,docker,git,github,idea,vscode&perline=5"/>
 
 </td>
 
 <td width="50%">
 
-### Functional Analysis
+## 📊 GitHub
 
-- Relevamiento de requerimientos
-- Casos de uso
-- Modelado de procesos
-- Documentación funcional
-- Scrum
-- Jira
-- Confluence
-- Integración de sistemas
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanBabarro&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 </td>
 
@@ -66,99 +54,16 @@ Actualmente me encuentro cursando la **Licenciatura en Informática** y la **Tec
 
 ---
 
-# 🛠 Tech Stack
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap"/>
-</p>
-
-### Bases de Datos
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-</p>
-
-### Herramientas
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode,postman"/>
-</p>
-
----
-
-# 📈 Mi forma de trabajar
-
-```text
-Business Need
-      │
-      ▼
-Functional Analysis
-      │
-      ▼
-Solution Design
-      │
-      ▼
-Java + Spring Boot
-      │
-      ▼
-REST APIs
-      │
-      ▼
-Database
-      │
-      ▼
-Deployment
-```
-
----
-
-# 🚀 Proyectos Destacados
-
-## 📚 BookSpace
-
-Sistema para la gestión de lectores y biblioteca digital.
-
-**Tecnologías**
-
-Java • Spring Boot • Hibernate • React • MySQL
-
----
-
-## 🏥 ProSalud
-
-Sistema de gestión médica con administración de pacientes, turnos y profesionales.
-
-**Tecnologías**
-
-Java • Spring Boot • React • MySQL
-
----
-
-## ⚙ Playground
-
-Proyecto desarrollado con arquitectura moderna basada en servicios.
-
-**Tecnologías**
-
-Java • Spring Boot • Next.js • PostgreSQL
-
----
-
-# 📊 GitHub
+## 🚀 Especialidades
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+| Backend | Arquitectura | Análisis |
+|---------|--------------|----------|
+| Java | REST APIs | Functional Analysis |
+| Spring Boot | Microservices | Business Requirements |
+| Hibernate | SQL | Scrum |
+| Spring Security | API Gateway | Jira |
 
 </div>
 
@@ -166,70 +71,12 @@ Java • Spring Boot • Next.js • PostgreSQL
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact"/>
+## 📬 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](TU_PORTFOLIO)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
 
 </div>
 
----
-
-# 🎓 Educación
-
-🎓 Licenciatura en Informática
-
-Universidad Nacional del Oeste
-
----
-
-🎓 Tecnicatura Universitaria en Tecnologías de Desarrollo Web
-
-Universidad Nacional del Oeste
-
----
-
-# 🌎 Actualmente
-
-✔ Desarrollo Backend con Java
-
-✔ Arquitectura REST
-
-✔ Spring Boot
-
-✔ Hibernate
-
-✔ SQL
-
-✔ Microservices
-
-✔ Functional Analysis
-
-✔ Scrum
-
----
-
-# 📫 Contacto
-
-<div align="center">
-
-<a href="TU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:TU_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="TU_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Gracias por visitar mi perfil 👋
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=180&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=130&section=footer"/>
