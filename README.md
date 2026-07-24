@@ -6,43 +6,22 @@
 
 ### Java Developer • Functional Analyst
 
-Desarrollando aplicaciones empresariales con Java y Spring Boot, complementando el desarrollo con análisis funcional y diseño de soluciones orientadas al negocio.
+Desarrollador enfocado en el ecosistema Java, especializado en Spring Boot y desarrollo de aplicaciones empresariales. Me interesa combinar el desarrollo de software con el análisis funcional para diseñar soluciones alineadas con las necesidades del negocio.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,mysql,postgres,docker,git,github"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,mysql,postgres,docker,git,github&perline=9"/>
 
 </div>
 
 ---
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ## 👨‍💻 Sobre mí
 
-💻 Desarrollo aplicaciones Backend utilizando Java y Spring Boot.
-
-📋 Interesado en Análisis Funcional y modelado de procesos.
-
-⚙️ Experiencia con APIs REST, bases de datos relacionales y aplicaciones Full Stack.
-
-🎓 Estudiante de Licenciatura en Informática y Tecnicatura en Tecnologías Web.
-
-🚀 Siempre aprendiendo nuevas tecnologías y buenas prácticas.
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanBabarro&layout=compact&theme=github_dark&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
+- 💻 Desarrollo aplicaciones con **Java** y **Spring Boot**.
+- 📋 Interesado en **Análisis Funcional** y arquitectura de software.
+- ⚙️ Experiencia con **REST APIs**, SQL y aplicaciones Full Stack.
+- 🎓 Estudiante de Informática en la Universidad Nacional del Oeste.
 
 ---
 
@@ -56,28 +35,13 @@ Desarrollando aplicaciones empresariales con Java y Spring Boot, complementando 
 
 ---
 
-## 🚀 Especialidades
-
-<div align="center">
-
-| Backend | Bases de Datos | Herramientas |
-|---------|----------------|--------------|
-| Java | MySQL | Git |
-| Spring Boot | PostgreSQL | Docker |
-| Hibernate | Oracle | GitHub |
-| Spring Security | SQL | Postman |
-
-</div>
-
----
-
-## 📈 GitHub
+## 📊 GitHub
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanBabarro&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanBabarro&theme=github-dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanBabarro&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -85,19 +49,11 @@ Desarrollando aplicaciones empresariales con Java y Spring Boot, complementando 
 
 <div align="center">
 
-## 📬 Contacto
+### 📫 Contacto
 
-<a href="TU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="TU_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:TU_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](TU_PORTFOLIO)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
 
 </div>
 
