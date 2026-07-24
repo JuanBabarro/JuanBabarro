@@ -1,157 +1,104 @@
-<img width="30px" src="https://github.com/user-attachments/assets/2ce06b7d-d975-4456-a5ce-285ddf177318">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=140&section=header"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=header"/>
+<div align="center">
 
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70">
-</p>
+# Juan Cruz Babarro
 
-<h1 align="center">Juan Cruz Babarro</h1>
+### Java Developer • Functional Analyst
 
-<h3 align="center">
-Java Developer • Functional Analyst
-</h3>
+Desarrollando aplicaciones empresariales con Java y Spring Boot, complementando el desarrollo con análisis funcional y diseño de soluciones orientadas al negocio.
 
-<p align="center">
-Java • Spring Boot • Hibernate • REST APIs • SQL • Microservices
-</p>
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,mysql,postgres,docker,git,github"/>
+
+</div>
 
 ---
 
-<table align="center">
-
+<table>
 <tr>
 
-<td width="50%" align="left">
+<td width="50%" valign="top">
 
-## 👨‍💻 SOBRE MÍ
+## 👨‍💻 Sobre mí
 
-🔹 Java Developer especializado en el ecosistema Spring.
+💻 Desarrollo aplicaciones Backend utilizando Java y Spring Boot.
 
-<br>
+📋 Interesado en Análisis Funcional y modelado de procesos.
 
-🔹 Orientado al desarrollo de aplicaciones empresariales y APIs REST.
+⚙️ Experiencia con APIs REST, bases de datos relacionales y aplicaciones Full Stack.
 
-<br>
+🎓 Estudiante de Licenciatura en Informática y Tecnicatura en Tecnologías Web.
 
-🔹 Interés en Análisis Funcional, modelado de procesos y documentación.
-
-<br>
-
-🔹 Estudiante de Licenciatura en Informática y Tecnicatura en Tecnologías Web (UNO).
-
-<br>
-
-🔹 Aprendizaje continuo y buenas prácticas de desarrollo.
+🚀 Siempre aprendiendo nuevas tecnologías y buenas prácticas.
 
 </td>
 
 <td width="50%" align="center">
 
-<img width="380" src="https://user-images.githubusercontent.com/74038190/212744275-2b8e2e8b-f85b-4e66-b9db-f0d6bde8c6c8.gif">
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table align="center">
-
-<tr>
-
-<td width="50%">
-
-## 🛠 TECNOLOGÍAS
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,js,html,css,mysql,postgres,docker,git,github,idea,vscode&perline=5"/>
-
-</td>
-
-<td width="50%">
-
-## 📊 GITHUB
-
-<p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanBabarro&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
-
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-<table align="center">
+## 🛠 Tecnologías
 
-<tr>
+<div align="center">
 
-<td align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,js,html,css,mysql,postgres,docker,git,github,idea,vscode,postman&perline=8"/>
 
-## 💼 ESPECIALIDADES
-
-☕ Java
-
-🌱 Spring Boot
-
-🗄 Hibernate / JPA
-
-🔗 REST APIs
-
-🏗 Microservices
-
-🗃 SQL
-
-📋 Functional Analysis
-
-📈 Scrum
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
-<table align="center">
+## 🚀 Especialidades
 
-<tr>
+<div align="center">
 
-<td align="center">
+| Backend | Bases de Datos | Herramientas |
+|---------|----------------|--------------|
+| Java | MySQL | Git |
+| Spring Boot | PostgreSQL | Docker |
+| Hibernate | Oracle | GitHub |
+| Spring Security | SQL | Postman |
 
-## 📬 CONTACTO
+</div>
 
-<br>
+---
+
+## 📈 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanBabarro&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanBabarro&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📬 Contacto
 
 <a href="TU_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
+<a href="TU_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 <a href="mailto:TU_EMAIL">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;
+</div>
 
-<a href="TU_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=140&section=footer"/>
