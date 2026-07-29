@@ -1,8 +1,7 @@
 
 
 <h2 align="center">
-  <span style="color:#2563EB;">Java Developer</span> |
-  <span style="color:#16A34A;">Functional Analyst</span>
+  💻 Java Developer &nbsp;|&nbsp; 📋 Functional Analyst
 </h2>
 
 Desarrollador Java orientado al desarrollo de aplicaciones empresariales con experiencia en Spring Boot y APIs REST. Interesado en el análisis funcional, el relevamiento de requisitos y la colaboración con clientes para comprender sus necesidades y transformarlas en soluciones de software eficientes, escalables y alineadas con los objetivos del negocio.
