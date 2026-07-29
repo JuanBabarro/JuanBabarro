@@ -1,8 +1,6 @@
-# Juan Cruz Babarro
+**Java Developer & Functional Analyst**
 
-**Java Developer | Functional Analyst**
-
-Desarrollador orientado al ecosistema Java con interés en el desarrollo de aplicaciones empresariales y el análisis funcional. Me enfoco en crear soluciones escalables, mantenibles y alineadas con las necesidades del negocio.
+Desarrollador Java orientado al desarrollo de aplicaciones empresariales con experiencia en Spring Boot y APIs REST. Interesado en el análisis funcional, el relevamiento de requisitos y la colaboración con clientes para comprender sus necesidades y transformarlas en soluciones de software eficientes, escalables y alineadas con los objetivos del negocio.
 
 ## 👨‍💻 Sobre mí
 
