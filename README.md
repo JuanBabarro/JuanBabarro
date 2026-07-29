@@ -22,23 +22,9 @@ Desarrollador orientado al ecosistema Java con interés en el desarrollo de apli
 
 ---
 
-## 🚀 Proyectos destacados
-
-### 📚 BookSpace
-Aplicación web para la gestión de libros y lectores.
-
-**Tecnologías:** Java, Spring Boot, React, MySQL.
-
-### 🏥 ProSalud
-Sistema de gestión para centros médicos.
-
-**Tecnologías:** Java, Spring Boot, React, MySQL.
-
----
-
 ## 📫 Contacto
 
-- 💼 LinkedIn: https://www.linkedin.com/in/TU_LINKEDIN
+- 💼 LinkedIn: https://www.linkedin.com/in/juanbabarro/
 - 🌐 Portfolio: https://juanbabarro.github.io/Portafolio-JuanBabarro/
 - 📧 Email: TU_EMAIL
 
