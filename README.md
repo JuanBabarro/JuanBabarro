@@ -26,7 +26,6 @@ Desarrollador orientado al ecosistema Java con interés en el desarrollo de apli
 
 - 💼 LinkedIn: https://www.linkedin.com/in/juanbabarro/
 - 🌐 Portfolio: https://juanbabarro.github.io/Portafolio-JuanBabarro/
-- 📧 Email: TU_EMAIL
 
 ---
 
