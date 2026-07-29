@@ -16,33 +16,9 @@ Desarrollador orientado al ecosistema Java con interés en el desarrollo de apli
 
 ## 🛠 Tecnologías
 
-### Backend
-- Java
-- Spring Boot
-- Spring Data JPA
-- Spring Security
-- Hibernate
-- Maven
-
-### Frontend
-- React
-- JavaScript
-- HTML
-- CSS
-
-### Bases de datos
-- MySQL
-- PostgreSQL
-
-### Herramientas
-- Git
-- GitHub
-- Docker
-- Postman
-- IntelliJ IDEA
-- VS Code
-- Jira
-- Scrum
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,js,html,css,mysql,postgres,docker,git,github,idea,vscode,postman&perline=8"/>
+</p>
 
 ---
 
