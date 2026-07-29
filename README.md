@@ -1,60 +1,71 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=140&section=header"/>
-
-<div align="center">
-
 # Juan Cruz Babarro
 
-### Java Developer • Functional Analyst
+**Java Developer | Functional Analyst**
 
-Desarrollador enfocado en el ecosistema Java, especializado en Spring Boot y desarrollo de aplicaciones empresariales. Me interesa combinar el desarrollo de software con el análisis funcional para diseñar soluciones alineadas con las necesidades del negocio.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,mysql,postgres,docker,git,github&perline=9"/>
-
-</div>
-
----
+Desarrollador orientado al ecosistema Java con interés en el desarrollo de aplicaciones empresariales y el análisis funcional. Me enfoco en crear soluciones escalables, mantenibles y alineadas con las necesidades del negocio.
 
 ## 👨‍💻 Sobre mí
 
-- 💻 Desarrollo aplicaciones con **Java** y **Spring Boot**.
-- 📋 Interesado en **Análisis Funcional** y arquitectura de software.
-- ⚙️ Experiencia con **REST APIs**, SQL y aplicaciones Full Stack.
-- 🎓 Estudiante de Informática en la Universidad Nacional del Oeste.
+- 💻 Desarrollo aplicaciones utilizando Java y Spring Boot.
+- 📌 Interesado en Análisis Funcional, relevamiento de requisitos y diseño de soluciones.
+- 🔗 Desarrollo y consumo de APIs REST.
+- 🗄️ Experiencia con bases de datos relacionales y SQL.
+- 📚 Estudiante de Licenciatura en Informática.
 
 ---
 
 ## 🛠 Tecnologías
 
-<div align="center">
+### Backend
+- Java
+- Spring Boot
+- Spring Data JPA
+- Spring Security
+- Hibernate
+- Maven
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,js,html,css,mysql,postgres,docker,git,github,idea,vscode,postman&perline=8"/>
+### Frontend
+- React
+- JavaScript
+- HTML
+- CSS
 
-</div>
+### Bases de datos
+- MySQL
+- PostgreSQL
+
+### Herramientas
+- Git
+- GitHub
+- Docker
+- Postman
+- IntelliJ IDEA
+- VS Code
+- Jira
+- Scrum
 
 ---
 
-## 📊 GitHub
+## 🚀 Proyectos destacados
 
-<div align="center">
+### 📚 BookSpace
+Aplicación web para la gestión de libros y lectores.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanBabarro&show_icons=true&theme=github_dark&hide_border=true"/>
+**Tecnologías:** Java, Spring Boot, React, MySQL.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanBabarro&layout=compact&theme=github_dark&hide_border=true"/>
+### 🏥 ProSalud
+Sistema de gestión para centros médicos.
 
-</div>
+**Tecnologías:** Java, Spring Boot, React, MySQL.
 
 ---
 
-<div align="center">
+## 📫 Contacto
 
-### 📫 Contacto
+- 💼 LinkedIn: https://www.linkedin.com/in/TU_LINKEDIN
+- 🌐 Portfolio: https://juanbabarro.github.io/Portafolio-JuanBabarro/
+- 📧 Email: TU_EMAIL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](TU_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+---
 
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=140&section=footer"/>
+> Siempre abierto a oportunidades como **Java Developer** o **Analista Funcional**.
