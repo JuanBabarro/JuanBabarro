@@ -32,9 +32,3 @@ Desarrollador de software orientado al desarrollo de aplicaciones empresariales 
 ---
 
 > Siempre abierto a oportunidades como **Software Developer** o **Analista Funcional**.
-
-
----
-
-> Siempre abierto a oportunidades como **Java Developer** o **Analista Funcional**.
-
