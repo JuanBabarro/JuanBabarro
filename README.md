@@ -1,8 +1,8 @@
 <h2 align="center">
-  💻 Java Developer &nbsp;|&nbsp; 📋 Functional Analyst
+  💻 Software Developer &nbsp;|&nbsp; 📋 Functional Analyst
 </h2>
 
-Desarrollador Java orientado al desarrollo de aplicaciones empresariales con experiencia en Spring Boot y APIs REST. Interesado en el análisis funcional, el relevamiento de requisitos y la colaboración con clientes para comprender sus necesidades y transformarlas en soluciones de software eficientes, escalables y alineadas con los objetivos del negocio.
+Desarrollador de software orientado al desarrollo de aplicaciones empresariales con experiencia en Java, Spring Boot y APIs REST. Interesado en el análisis funcional, el relevamiento de requisitos y la colaboración con clientes para comprender sus necesidades y transformarlas en soluciones de software eficientes, escalables y alineadas con los objetivos del negocio.
 
 ## 👨‍💻 Sobre mí
 
@@ -28,6 +28,11 @@ Desarrollador Java orientado al desarrollo de aplicaciones empresariales con exp
 
 * 💼 LinkedIn: https://www.linkedin.com/in/juanbabarro/
 * 🌐 Portfolio: https://juanbabarro.github.io/Portafolio-JuanBabarro/
+
+---
+
+> Siempre abierto a oportunidades como **Software Developer** o **Analista Funcional**.
+
 
 ---
 
